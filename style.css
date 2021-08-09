@@ -1,0 +1,44 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+    box-shadow:5px 5px 25px blue;
+}
+
+.heading_div{
+    float: none;
+    background:cadetblue;
+    padding:14px;
+    border-radius:20px;
+    color:red;
+    box-shadow:5px 5px 5px blue;
+}
+
+.heading_div2{
+    font-size:20px;
+}
+
+.result_para_tag{
+    box-shadow:5px 5px 5px red;
+    font-size:25px;
+}
+
+.coppy_right_footer{
+    font-family: 'MonteCarlo', cursive;
+    position:fixed;
+    color:firebrick;
+    bottom:0;
+    width:100%;
+    background-color:deepskyblue;
+    line-height:3;
+    text-align:center;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+canvas{
+    border:5px solid lightskyblue;
+    border-radius:20px;
+    box-shadow:5px 5px 5px darkred;
+    margin-top:150px;
+}
